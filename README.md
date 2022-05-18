@@ -1,21 +1,28 @@
 # todo
 vs-github-projects issue
+
 1.add card css 位置 under to top float hold
+
 カード追加ボタンのCSS位置を下から上にフロート固定を行う
 
 2.column 位置 hold float
+
 カラム名のCSS？をホールドさせる
 
 3.kanban history 機能追加
+
 看板の履歴機能を表示させる機能を追加（優先度低）
 
 4.\r \r\n 改行機能追加
+
 カード編集時に改行ができるようにするように修正
 
 5.side scrollbar change hidden -> view
+
 横のスクロールバーを表示させるように修正
 
 6.card action -> [edit] [hunbergar menu]
+
 カード編集ボタンを残し、削除ボタン、アーカイブボタンなどはハンバーガーメニューへ移動する
 
 
